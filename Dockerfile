@@ -1,6 +1,6 @@
 FROM openjdk
 
-WORKDIR /
+WORKDIR /eagler
 
 COPY . .
 
