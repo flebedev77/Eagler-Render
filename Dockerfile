@@ -1,4 +1,4 @@
-FROM chainguard/jdk
+FROM openjdk
 
 WORKDIR /
 
