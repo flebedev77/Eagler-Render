@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM chainguard/jdk
 
 WORKDIR /
 
