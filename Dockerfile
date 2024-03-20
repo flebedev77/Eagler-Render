@@ -6,4 +6,6 @@ COPY . .
 
 EXPOSE 25569
 
-CMD ["ls", "-R"]
+RUN chmod +x ./java/bukkit_command/run_unix.sh
+
+CMD ["bash", "./java/bukkit_command/run_unix.sh"]
