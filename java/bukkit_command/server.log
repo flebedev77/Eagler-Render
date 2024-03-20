@@ -96,3 +96,101 @@
 
 2024-03-19 20:29:03 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
 
+2024-03-20 19:26:51 [INFO] Starting minecraft server version 1.5.2
+2024-03-20 19:26:51 [INFO] Loading properties
+2024-03-20 19:26:51 [INFO] Default game type: SURVIVAL
+2024-03-20 19:26:51 [INFO] Generating keypair
+2024-03-20 19:26:51 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2024-03-20 19:26:52 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2024-03-20 19:26:52 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-03-20 19:26:52 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2024-03-20 19:26:52 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-03-20 19:26:52 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2024-03-20 19:26:52 [INFO] Preparing level "world"
+2024-03-20 19:26:52 [INFO] Preparing start region for level 0 (Seed: 3031392574982961288)
+2024-03-20 19:26:53 [SEVERE] Exception in thread "Thread-5" 
+2024-03-20 19:26:53 [SEVERE] org.bukkit.craftbukkit.libs.com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:180)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:755)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:694)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.fetchArtifact(BukkitDLUpdaterService.java:51)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.getArtifact(BukkitDLUpdaterService.java:28)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.AutoUpdater$1.run(AutoUpdater.java:77)
+
+2024-03-20 19:26:53 [SEVERE] Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+
+2024-03-20 19:26:53 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:168)
+
+2024-03-20 19:26:53 [SEVERE] 	... 5 more
+
+2024-03-20 19:26:53 [INFO] Preparing spawn area: 12%
+2024-03-20 19:26:54 [INFO] Preparing spawn area: 37%
+2024-03-20 19:26:55 [INFO] Preparing spawn area: 66%
+2024-03-20 19:26:56 [INFO] Preparing start region for level 1 (Seed: 3031392574982961288)
+2024-03-20 19:26:56 [INFO] Preparing spawn area: 54%
+2024-03-20 19:26:57 [INFO] Preparing start region for level 2 (Seed: 3031392574982961288)
+2024-03-20 19:26:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2024-03-20 19:26:57 [INFO] Done (4.691s)! For help, type "help" or "?"
+2024-03-20 19:26:57 [INFO] Crash Loop Detector is Running! (30sec)
+
+2024-03-20 19:26:57 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
+2024-03-20 19:28:42 [INFO] Starting minecraft server version 1.5.2
+2024-03-20 19:28:42 [INFO] Loading properties
+2024-03-20 19:28:42 [INFO] Default game type: SURVIVAL
+2024-03-20 19:28:42 [INFO] Generating keypair
+2024-03-20 19:28:42 [INFO] Starting Minecraft server on 127.0.0.1:25569
+2024-03-20 19:28:42 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.2-R1.0-b2788jnks (MC: 1.5.2) (Implementing API version 1.5.2-R1.0)
+2024-03-20 19:28:42 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2024-03-20 19:28:42 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2024-03-20 19:28:42 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2024-03-20 19:28:42 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2024-03-20 19:28:42 [INFO] Preparing level "world"
+2024-03-20 19:28:42 [INFO] Preparing start region for level 0 (Seed: -5644864158432555155)
+2024-03-20 19:28:43 [SEVERE] Exception in thread "Thread-5" 
+2024-03-20 19:28:43 [SEVERE] org.bukkit.craftbukkit.libs.com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:180)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:755)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:694)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.fetchArtifact(BukkitDLUpdaterService.java:51)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.BukkitDLUpdaterService.getArtifact(BukkitDLUpdaterService.java:28)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.v1_5_R3.updater.AutoUpdater$1.run(AutoUpdater.java:77)
+
+2024-03-20 19:28:43 [SEVERE] Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+
+2024-03-20 19:28:43 [SEVERE] 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:168)
+
+2024-03-20 19:28:43 [SEVERE] 	... 5 more
+
+2024-03-20 19:28:43 [INFO] Preparing spawn area: 16%
+2024-03-20 19:28:44 [INFO] Preparing spawn area: 41%
+2024-03-20 19:28:45 [INFO] Preparing spawn area: 70%
+2024-03-20 19:28:46 [INFO] Preparing start region for level 1 (Seed: -5644864158432555155)
+2024-03-20 19:28:46 [INFO] Preparing spawn area: 0%
+2024-03-20 19:28:47 [INFO] Preparing start region for level 2 (Seed: -5644864158432555155)
+2024-03-20 19:28:47 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2024-03-20 19:28:47 [INFO] Done (4.692s)! For help, type "help" or "?"
+2024-03-20 19:28:47 [INFO] Crash Loop Detector is Running! (30sec)
+
+2024-03-20 19:28:47 [INFO] To increase, add "--crashTimeout [sec]" to the program's arguments
+
